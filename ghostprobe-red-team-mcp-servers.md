@@ -75,3 +75,5 @@ GitHub: https://github.com/joemunene-by/ghostprobe
 
 By **Joe Munene**, a software engineer in Nairobi focused on secure systems and applied machine learning.
 [Portfolio](https://my-portfolio-peach-eta-42.vercel.app) · [GitHub](https://github.com/joemunene-by) · [More writing](https://github.com/joemunene-by/writing) · [joemunene984@gmail.com](mailto:joemunene984@gmail.com)
+
+Discussion: [Coder Legion](https://coderlegion.com/20451/i-built-a-red-team-scanner-for-mcp-servers-then-i-pointed-it-at-the-real-ones)
