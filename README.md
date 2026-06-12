@@ -26,6 +26,7 @@ I write from things I actually build: [GhostLM](https://github.com/joemunene-by/
 
 | Piece | Topic |
 |-------|-------|
+| [I built a red-team scanner for MCP servers](ghostprobe-red-team-mcp-servers.md) | Why an MCP server's tool list is an attack surface, building [ghostprobe](https://github.com/joemunene-by/ghostprobe) to scan for tool poisoning and the lethal trifecta, and what running it against the real servers taught me (including catching bugs in itself). |
 | [AI Model Supply Chain Security](ai-model-supply-chain-security.md) | Serialization risks in model artifacts, provenance verification, artifact scanning, and Model Bills of Materials. Originally proposed to the OWASP Cheat Sheet Series ([PR #2111](https://github.com/OWASP/CheatSheetSeries/pull/2111)). |
 
 ## License
