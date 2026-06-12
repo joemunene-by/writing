@@ -80,3 +80,8 @@ Use the MBOM to assess blast radius when a vulnerability is disclosed in a base 
 - [NIST AI 100-2e2025 — Adversarial Machine Learning](https://csrc.nist.gov/pubs/ai/100/2/e2025/final)
 - [OWASP Secure AI/ML Model Ops Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secure_AI_Model_Ops_Cheat_Sheet.html)
 - [OWASP Software Supply Chain Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Software_Supply_Chain_Security_Cheat_Sheet.html)
+
+---
+
+By **Joe Munene**, a software engineer in Nairobi focused on secure systems and applied machine learning.
+[Portfolio](https://my-portfolio-peach-eta-42.vercel.app) · [GitHub](https://github.com/joemunene-by) · [More writing](https://github.com/joemunene-by/writing) · [joemunene984@gmail.com](mailto:joemunene984@gmail.com)

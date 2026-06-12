@@ -104,3 +104,10 @@ None of this is expensive. The permutation test is about twenty lines of Python.
 The full harness I built while finding these bugs is open source, including the multi-permutation text scorer, the free-form recall grader, and the contamination checker.
 
 GitHub: https://github.com/joemunene-by/GhostLM
+
+---
+
+By **Joe Munene**, a software engineer in Nairobi focused on secure systems and applied machine learning.
+[Portfolio](https://my-portfolio-peach-eta-42.vercel.app) · [GitHub](https://github.com/joemunene-by) · [More writing](https://github.com/joemunene-by/writing) · [joemunene984@gmail.com](mailto:joemunene984@gmail.com)
+
+Discussion: [Coder Legion](https://www.coderlegion.com/20374/how-to-evaluate-a-small-language-model-on-multiple-choice-without-fooling-yourself)

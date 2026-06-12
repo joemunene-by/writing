@@ -35,3 +35,10 @@ The next problem is the interesting one. Right now joe can write a skill, but it
 That combination, a skill library that knows its own track record, running entirely on local hardware, is the part I have not seen elsewhere. It is the reason I am still building this instead of just using a hosted agent.
 
 joe is open source: https://github.com/joemunene-by/joe
+
+---
+
+By **Joe Munene**, a software engineer in Nairobi focused on secure systems and applied machine learning.
+[Portfolio](https://my-portfolio-peach-eta-42.vercel.app) · [GitHub](https://github.com/joemunene-by) · [More writing](https://github.com/joemunene-by/writing) · [joemunene984@gmail.com](mailto:joemunene984@gmail.com)
+
+Discussion: [Coder Legion](https://www.coderlegion.com/20380/i-built-a-local-coding-agent-that-learns-from-its-wins-not-just-its-mistakes)
